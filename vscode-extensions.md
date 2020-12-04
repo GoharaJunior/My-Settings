@@ -1,0 +1,1 @@
+Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
