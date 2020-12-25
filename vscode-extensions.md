@@ -9,6 +9,8 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 * [Dracula Pro](https://draculatheme.com/pro)
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* Pretter
+  - [Download](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 * [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
