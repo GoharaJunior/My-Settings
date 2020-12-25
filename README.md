@@ -3,4 +3,4 @@ Estas são as configurações que estou usando atualmente no meu editor de códi
 
 Veja qual faz sentido para sua situação e divirta-se!
 
-01. [Extensões do meu VSCode ](vscode-extensions.md)
+01. [Extensões do meu VSCode ](vscode-extensions/vscode-extensions.md)
