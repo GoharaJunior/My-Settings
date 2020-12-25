@@ -8,7 +8,7 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 * Pretter ↴
-  - [Help](./help/prettier-help.md)
+  - [Help](../help/prettier-help.md)
   - [Download](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
