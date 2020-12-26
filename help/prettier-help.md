@@ -1,4 +1,4 @@
-### Meu prettier não está formatando o código
+### Meu prettier não está formatando o código ⤵
 
 1. Caso não tenha, instale com `yarn add -D prettier`, reinicie o editor e tente novamente.
 
@@ -12,3 +12,11 @@
   }
 }
 ```
+
+### ⚠ Depois de ter colocado essas configurações e não for tente ⤵
+
+- CTRL + SHIFT + P
+- Format Document (in pop-up bar)
+- Select Format Document
+- Select Configure Default Formatter... 
+- Select Prettier - Code formatter
