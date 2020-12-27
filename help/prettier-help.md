@@ -2,7 +2,7 @@
 
 1. Caso não tenha, instale com `yarn add -D prettier`, reinicie o editor e tente novamente.
 
-2. Verifique se o teu VS Code está configurado para formatar ao salvar. Você precisa ter um arquivo _na raiz do projeto_como `.vscode/settings.json`, segue abaixo o código:
+2. Verifique se o teu VS Code está configurado para formatar ao salvar. Você precisa ter um arquivo _na raiz do projeto_como `.vscode/settings.json` ou salvar diretamento no `settings.json`, segue abaixo o código:
 
 ```json
 {
