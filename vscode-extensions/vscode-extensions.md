@@ -14,4 +14,4 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
-* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/itemsitemName=dsznajder.es7-react-js-snippets)
+* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
