@@ -3,6 +3,7 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+* [GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 * [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 * [Dracula Pro](https://draculatheme.com/pro)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
@@ -16,3 +17,4 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 * [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
