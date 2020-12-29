@@ -1,7 +1,5 @@
 Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
-* ESLint ↴
-  - [Help]()
-  - [Download](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)  
+
 * [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 * [GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
@@ -9,6 +7,9 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 * [Dracula Pro](https://draculatheme.com/pro)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+* ESLint ↴
+  - [Help]()
+  - [Download](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)  
 * Pretter ↴
   - [Help](../help/prettier-help.md)
   - [Download](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
