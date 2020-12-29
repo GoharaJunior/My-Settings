@@ -8,7 +8,7 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - ESLint ↴
-  - [Help](../help/eslint.md)
+  - [Help](../help/eslint-help.md)
   - [Download](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - Pretter ↴
   - [Help](../help/prettier-help.md)
