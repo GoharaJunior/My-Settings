@@ -1,4 +1,4 @@
-### Comando ESLint não encontra os erros ⤵
+## Comando ESLint não encontra os erros ⤵
 
 ```bash
 eslint [nomeDaPasta]
@@ -22,15 +22,17 @@ npx eslint src
 
 Agora sim podemos ver que já foi avisado do error.
 
-### Correção automática
+## Correção automática
 
 Não são todas vezes, mas esse comando faz com que ele corrija automáticamente, exemplo:
 
 ```bash
 npx eslint src --fix
 ```
+caso não corrija a mensagem da print a cima vai aparecer novamente
 
-### Adicionando atalho
+
+## Adicionando atalho
 
 Caso queria rodar isso de fomar mais rápida, basta adicionarmos ao nosso `package,json`.
 
