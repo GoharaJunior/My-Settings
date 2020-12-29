@@ -34,7 +34,7 @@ caso não corrija, uma mensagem igual da `print` a cima vai aparecer.
 
 ## Adicionando atalho
 
-Caso queria rodar isso de fomar mais rápida, basta adicionarmos ao nosso `package,json`.
+Caso queria rodar isso de fomar mais rápida, basta adicionarmos ao nosso `package.json`
 
 ```json
 "scripts": {
