@@ -29,7 +29,7 @@ Não são todas vezes, mas esse comando faz com que ele corrija automáticamente
 ```bash
 npx eslint src --fix
 ```
-caso não corrija a mensagem da print a cima vai aparecer novamente
+caso não corrija, uma mensagem igual da `print` a cima vai aparecer.
 
 
 ## Adicionando atalho
