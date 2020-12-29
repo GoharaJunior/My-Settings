@@ -29,3 +29,15 @@ Não são todas vezes, mas esse comando faz com que ele corrija automáticamente
 ```bash
 npx eslint src --fix
 ```
+
+### Adicionando atalho
+
+Caso queria rodar isso de fomar mais rápida, basta adicionarmos ao nosso `package,json`.
+
+```json
+"scripts": {
+  "lint": "eslint src"
+},
+```
+
+Feito isso, basta rodar no terminal `yarn eslint` que ele vai verificar da mesma forma, só mudamos o jeito de rodar esse comando.
