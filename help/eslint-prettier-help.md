@@ -28,7 +28,7 @@ Agora sim podemos ver que já foi avisado do error.
 
 ---
 
-Correção automática
+**Correção automática**
 
 Não são todas vezes, mas esse comando faz com que ele corrija automáticamente, exemplo:
 
@@ -39,7 +39,7 @@ caso não corrija, uma mensagem igual da `print` a cima vai aparecer.
 
 ---
 
-Adicionando atalho
+**Adicionando atalho**
 
 Caso queria rodar isso de fomar mais rápida, basta adicionarmos ao nosso `package.json`
 
