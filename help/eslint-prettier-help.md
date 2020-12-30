@@ -2,7 +2,7 @@
   - [Comando ESLint não encontra os erros](#comando-eslint-não-encontra-os-erros)
   - [Meu prettier não está formatando o código](#meu-prettier-não-está-formatando-o-código)
 
-### Comando ESLint não encontra os erros ⤵
+### Comando ESLint não encontra os erros
 
 ```bash
 eslint [nomeDaPasta]
