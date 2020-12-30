@@ -1,8 +1,6 @@
 - [Índice](#índice)
-  - [Comando ESLint não encontra os erros](#qual-plugin-você-usa-para-graphqlcortemaetc)
+  - [Comando ESLint não encontra os erros](#comando-eslint-não-encontra-os-erros)
   - [Meu prettier não está formatando o código](#meu-prettier-não-está-formatando-o-código)
-
-
 
 ### Comando ESLint não encontra os erros ⤵
 
@@ -12,9 +10,9 @@ eslint [nomeDaPasta]
 
 Se caso retorna algum error igual da print a baixo:
 
-<p align="left">
-  <img src="/help/img/eslint-print-01.png">
-</p>
+  <p align="left">
+    <img src="/help/img/eslint-print-01.png">
+  </p>
 
 Você pode usar o comando usando o `npx` no começo, exemplo:
 
