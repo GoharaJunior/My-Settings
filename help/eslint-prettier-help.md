@@ -53,6 +53,8 @@ Feito isso, basta rodar no terminal `yarn eslint` que ele vai verificar da mesma
 
 **[⬆ voltar ao topo](#Índice)**
 
+---
+
 ## Meu prettier não está formatando o código
 
 1. Caso não tenha, instale com `yarn add -D prettier`, reinicie o editor e tente novamente.
@@ -67,7 +69,7 @@ Feito isso, basta rodar no terminal `yarn eslint` que ele vai verificar da mesma
   }
 }
 ```
-3. ⚠ Depois de ter colocado essas configurações e não for tente ⤵
+3. ⚠ Depois de ter colocado essas configurações e não for tente
 
 - CTRL + SHIFT + P
 - Format Document (in pop-up bar)
