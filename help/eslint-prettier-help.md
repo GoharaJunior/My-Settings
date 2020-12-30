@@ -67,8 +67,7 @@ Feito isso, basta rodar no terminal `yarn eslint` que ele vai verificar da mesma
   }
 }
 ```
-
-- ⚠ Depois de ter colocado essas configurações e não for tente ⤵
+3. ⚠ Depois de ter colocado essas configurações e não for tente ⤵
 
 - CTRL + SHIFT + P
 - Format Document (in pop-up bar)
