@@ -5,6 +5,7 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 - [Dracula Pro](https://draculatheme.com/pro)
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - ESLint & Pretter↴
@@ -17,3 +18,4 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
