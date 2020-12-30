@@ -26,7 +26,9 @@ npx eslint src
 
 Agora sim podemos ver que já foi avisado do error.
 
-- Correção automática
+---
+
+Correção automática
 
 Não são todas vezes, mas esse comando faz com que ele corrija automáticamente, exemplo:
 
@@ -35,7 +37,9 @@ npx eslint src --fix
 ```
 caso não corrija, uma mensagem igual da `print` a cima vai aparecer.
 
-- Adicionando atalho
+---
+
+Adicionando atalho
 
 Caso queria rodar isso de fomar mais rápida, basta adicionarmos ao nosso `package.json`
 
@@ -46,6 +50,8 @@ Caso queria rodar isso de fomar mais rápida, basta adicionarmos ao nosso `packa
 ```
 
 Feito isso, basta rodar no terminal `yarn eslint` que ele vai verificar da mesma forma, só mudamos o jeito de rodar esse comando.
+
+**[⬆ voltar ao topo](#Índice)**
 
 ## Meu prettier não está formatando o código
 
