@@ -11,7 +11,7 @@ eslint [nomeDaPasta]
 Se caso retorna algum error igual da print a baixo:
 
   <p align="left">
-    <img src="/help/img/eslint-print-01.png">
+    <img src="./img/eslint-print-01.png" />
   </p>
 
 Você pode usar o comando usando o `npx` no começo, exemplo:
@@ -21,7 +21,7 @@ npx eslint src
 ```
 
 <p align="left">
-  <img src="/help/img/eslint-print-02.png">
+  <img src="./img/eslint-print-02.png">
 </p>
 
 Agora sim podemos ver que já foi avisado do error.
