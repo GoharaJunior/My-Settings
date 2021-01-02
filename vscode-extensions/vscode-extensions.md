@@ -5,6 +5,9 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 - [Dracula Pro](https://draculatheme.com/pro)
+- EditorConfig ↴
+  - [Download](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+  - [Help](../help/eslint-prettier-help.md)
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -15,9 +18,6 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-- EditorConfig ↴
-  - [Download](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-  - [Help](../help/eslint-prettier-help.md)
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
