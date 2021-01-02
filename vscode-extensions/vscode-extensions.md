@@ -7,7 +7,7 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 - [Dracula Pro](https://draculatheme.com/pro)
 - EditorConfig ↴
   - [Download](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-  - [Help](../help/eslint-prettier-help.md)
+  - [Help](../help/editorconfig-help.md)
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
