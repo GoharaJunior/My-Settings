@@ -11,10 +11,12 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- ESLint & Pretter↴
-  - [ESLint Download](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  - [Pretter Download](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - [Help](../help/eslint-prettier-help.md)
+- ESLint ↴
+  - [Download](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  - [Help](../help/eslint-help.md)
+- Pretter ↴
+  - [Download](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [Help](../help/prettier-help.md)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
