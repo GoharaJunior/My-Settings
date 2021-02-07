@@ -6,6 +6,7 @@ Aqui está a lista de extensões que estou usando atualmente no meu VSCode.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Dracula Pro](https://draculatheme.com/pro)
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
